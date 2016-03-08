@@ -7,6 +7,13 @@ body {
    font-family: Arial, serif;
 }
 
+img {
+   height: auto;
+   width: auto;
+   max-width: 300px;
+   max-height: 300px;
+}
+
 .container {
    margin-bottom: 80px;
 }
@@ -75,3 +82,5 @@ body {
  background-color: #ababab ;
  color: #3f3f3f ;
 }
+
+
